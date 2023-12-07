@@ -15,13 +15,13 @@
     "a713992e-1a20-4660-8efd-c4c4f15df087": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Mini Dungeon.scene.nasset"
+        "path": "Assets/Mini Dungeon.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-0.2456,2.4531,1.6301],\"rotation\":[-29.3818,-0.0,-170.8632]}"
+        }
     },
     "guid": "0f68ed98-e5be-01b9-9fcb-5c78da0dccbd",
     "imported_assets": [
-        "c4336256-b031-4fed-9323-210ac72ca4a5",
-        "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
-        "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7",
         "04ac9694-a9c1-fa34-3316-3ed0b04c0fd3",
         "0656f242-78f8-46c4-224a-e0aa005efd99",
         "11867396-f9fc-cc61-afc3-2bb0dd6db28b",
@@ -51,6 +51,7 @@
         "6b72c659-a7d1-df20-f17d-e8a45afe04d2",
         "6d52aca5-29d8-403e-012e-621d8b95ccfd",
         "75a91277-66cb-1907-0a80-c32ae8888656",
+        "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7",
         "791ead88-abee-8844-f955-c92357416f64",
         "7dbc6384-ada7-0d0a-4e44-ba94d474e878",
         "7deb37e6-2b6e-dedf-737c-662c65f4382a",
@@ -76,7 +77,9 @@
         "b5d48d01-6f37-4be7-ffa9-378e090ae28b",
         "b8da8ba3-a7ff-b409-f698-04b1febc6184",
         "c0dbca16-59d2-4a75-f18e-81c129a77666",
+        "c4336256-b031-4fed-9323-210ac72ca4a5",
         "c5ffa588-ad5a-69aa-69b5-55c83e2b41c9",
+        "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
         "cb603cb3-da53-74be-5772-9d8c81f63d97",
         "d0e99346-bdf0-c17c-b673-12d196c1988c",
         "d35eb8d2-a3d3-1593-94ae-808d9761fb4d",
