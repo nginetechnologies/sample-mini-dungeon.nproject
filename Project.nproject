@@ -1,7 +1,7 @@
 {
     "name": "Mini Dungeon",
     "guid": "56c64bb9-b9ac-477a-b9c0-d7a101318380",
-    "database_guid": "0f68ed98-e5be-01b9-9fcb-5c78da0dccbd",
+    "database_guid": "aa7894f0-c1d1-067e-e44c-dd87fc127551",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
