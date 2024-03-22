@@ -10,6 +10,31 @@
         "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
         "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[4.071798801422119,-2.0180904865264894,5.273454189300537],\"rotation\":[-46.59962844848633,-9.1532319856924e-7,42.15422439575195]}"
     },
+    "data_components": [
+        {
+            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
+            "camera_settings": {
+                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
+                "9ae0e145-86b4-4e47-afda-697bbd008922": {
+                    "fieldOfView": 60.0,
+                    "nearPlane": 0.1,
+                    "farPlane": 512.0
+                }
+            },
+            "transform": {
+                "position": [
+                    19.7344,
+                    -8.4986,
+                    2.6168
+                ],
+                "rotation": [
+                    -22.0021,
+                    0.0,
+                    35.0476
+                ]
+            }
+        }
+    ],
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2275,6 +2300,28 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Skysphere"
+                }
+            ]
+        },
+        {
+            "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    6.0
+                ]
+            },
+            "ea45accb-89d5-4816-9831-f116045b90e4": {
+                "audio_asset": "0636d615-8b94-7b83-8b8e-dd05a0e724e2",
+                "looping": true,
+                "volume": 0.3,
+                "outer_radius": 100.0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ambient Music"
                 }
             ]
         }
