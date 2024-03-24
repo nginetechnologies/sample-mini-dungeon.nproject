@@ -13,9 +13,9 @@
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Mini Dungeon.scene.nasset",
         "metadata": {
-            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
-            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[4.071798801422119,-2.0180904865264894,5.273454189300537],\"rotation\":[-46.59962844848633,-9.1532319856924e-7,42.15422439575195]}"
-        }
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[4.071798801422119,-2.0180904865264894,5.273454189300537],\"rotation\":[-46.59962844848633,-9.1532319856924e-7,42.15422439575195]}"
+    }
     },
     "aa7894f0-c1d1-067e-e44c-dd87fc127551": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
@@ -23,8 +23,11 @@
     },
     "guid": "aa7894f0-c1d1-067e-e44c-dd87fc127551",
     "imported_assets": [
-        "0636d615-8b94-7b83-8b8e-dd05a0e724e2",
+        "fba971fd-e6bc-233d-dbc7-a3321996ae11",
+        "c82d4992-373a-b22a-977f-842fc0516d6b",
+        "610571af-6574-3f2b-5e44-75567df99802"
         "04ac9694-a9c1-fa34-3316-3ed0b04c0fd3",
+        "0636d615-8b94-7b83-8b8e-dd05a0e724e2",
         "0656f242-78f8-46c4-224a-e0aa005efd99",
         "0dd2aaff-5aa4-4f15-92ea-3af852213bb6",
         "11867396-f9fc-cc61-afc3-2bb0dd6db28b",

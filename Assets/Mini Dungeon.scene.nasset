@@ -2,13 +2,9 @@
     "guid": "a713992e-1a20-4660-8efd-c4c4f15df087",
     "type_version": 1,
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-    "instanceGuid": "2e7a024e-3f89-9fc3-831f-49eb0a25a861",
+    "instanceGuid":"687566d1-28d4-4311-b339-a41c6ff67110",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
-    },
-    "metadata": {
-        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
-        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[4.071798801422119,-2.0180904865264894,5.273454189300537],\"rotation\":[-46.59962844848633,-9.1532319856924e-7,42.15422439575195]}"
     },
     "data_components": [
         {
@@ -36,6 +32,38 @@
         }
     ],
     "children": [
+        {
+            "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
+            "instanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8",
+            "data_components": [
+                {
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
+                },
+                {
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
+                },
+                {
+                    "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
+                },
+                {
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
+                },
+                {
+                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                },
+                {
+                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
+                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
+                },
+                {
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8"
+                }
+            ]
+        },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "9d4f7b57-8d70-daa1-b55d-38153ba91952",
@@ -2111,7 +2139,7 @@
         },
         {
             "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
-            "instanceGuid": "2662ae70-aad5-3143-deea-6fdbd8b2020e",
+            "instanceGuid":"e2de9864-4c69-4417-83e8-173c331354d7",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
@@ -2326,5 +2354,12 @@
             ]
         }
     ],
-    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "metadata": {
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[4.071798801422119,-2.0180904865264894,5.273454189300537],\"rotation\":[-46.59962844848633,-9.1532319856924e-7,42.15422439575195]}"
+    },
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a713992e-1a20-4660-8efd-c4c4f15df087"
+    }
 }
