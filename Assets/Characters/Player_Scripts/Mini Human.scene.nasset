@@ -15,6 +15,12 @@
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
             "name": "Player"
+        },
+        {
+            "typeGuid": "223c3cd4-ce54-4627-87f9-b6f27edb5311"
+        },
+        {
+            "typeGuid": "6b94a270-d264-4a7a-b019-58c83b995f2c"
         }
     ],
     "children":
